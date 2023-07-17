@@ -24,3 +24,9 @@ This section presents the hands-on steps necessary to attain the previously ment
 - **Model Creation:** Architecting and constructing the CNN model utilizing Keras.
 - **Model Training:** Engaging the CNN model in learning using the prepared dataset.
 - **Evaluation:** Gauging the trained model's performance and analyzing the classification results.
+
+# Project:
+
+- [Github](https://github.com/YanSteph/CNN-GTSRB-Classification-with-Convolutional-Neural-Networks/blob/main/cnn-gtsrb-classification-with-cnn.ipynb)
+- [Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-gtsrb-classification-with-cnn/notebook)
+
