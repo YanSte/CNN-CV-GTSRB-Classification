@@ -1,7 +1,5 @@
 # [CNN]-[GTSRB] - Classification of GTSRB Dataset Using Convolutional Neural Networks (CNN)
 
-[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-gtsrb-classification-with-cnn/notebook)
-
 This notebook delves into a classification task involving the use of Convolutional Neural Networks (CNNs) on the GTSRB dataset.
 
 The German Traffic Sign Recognition Benchmark (GTSRB) is a dataset comprising over 50,000 photos of road signs categorized into approximately 40 classes.
@@ -13,7 +11,7 @@ We have structured the notebook into two main sections:
 # Objectives
 This section delineates the specific goals of this notebook, which are:
 
-- Training a Deep Neural Network (DNN) model to achieve high accuracy in classification of road signs.
+- Training a Convolutional Neural Networks (CNNs) model to achieve high accuracy in classification of road signs.
 
 # Implementation
 This section presents the hands-on steps necessary to attain the previously mentioned objectives. These steps include:
