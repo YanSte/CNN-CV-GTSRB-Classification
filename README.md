@@ -1,4 +1,4 @@
-# [CNN]-[GTSRB] - Classification of GTSRB Dataset Using Convolutional Neural Networks (CNN)
+# | CNN | CV | GTSRB - Convolutional Neural Networks (CNN) for Computer Vision (CV) in GTSRB Traffic Sign Classification
 
 This notebook delves into a classification task involving the use of Convolutional Neural Networks (CNNs) on the GTSRB dataset.
 
